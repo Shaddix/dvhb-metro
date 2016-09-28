@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+    ************************************************
+                       SVG INFO 
+    ************************************************
+ -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svgMap-spb"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 3599 4785"
+   sodipodi:docname="metro-spb.svg"
+   x="0px" xml:space="preserve" y="0px">
+
+  <metadata
+     id="metadata3342">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+  <defs id="defs3340" />
+
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview3338"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="1825.887"
+     inkscape:cy="2565.5462"
+     inkscape:window-x="1672"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer12" />
+
+<!-- 
+    ************************************************
+                       STYLES 
+    ************************************************
+ -->
+ <style id="dvhb_metro_style" type="text/css">
+  g.metro-station {cursor: pointer;}
+
+  g.metro-station.disabled {cursor: initial;}
+
+  g.metro-station.selected text, g.metro-station.selected tspan {
+    font-weight: bold !important; 
+  }
+
+  g.metro-station.disabled text, g.metro-station.disabled tspan {
+    fill: gray;
+    cursor: initial;
+  }
+
+  g.metro-station.disabled .circle--small {
+    display: none;
+  }
+
+  .station-text {
+    font: normal 50px 'PT Sans', sans-serif;
+  }
+
+  .text-right {
+    text-align: right;
+  }
+
+  .circle {
+    fill: #fff;
+    fill-opacity: 1;
+    stroke-miterlimit: 4;
+  }
+
+  .circle--small {stroke-width: 10.12040234;}
+  .circle--big {stroke-width:18.50087738;}
+
+  .circle--red {fill: #ef2c32;}
+  .circle--blue {fill:#3870c1;}
+  .circle--purple {fill:#782e99;}
+  .circle--lightpurple {fill:#cbabdb;}
+  .circle--green {fill:#3eb93a;}
+  .circle--lightgreen {fill:#c1e7af;}
+  .circle--orange {fill:#f9a72a;}
+  .circle--lightorange {fill:#fdd99f;}
+
+  .circle-stroke--red {stroke: #ef2c32;}
+  .circle-stroke--blue {stroke:#3870c1;}
+  .circle-stroke--purple {stroke:#782e99;}
+  .circle-stroke--lightpurple {stroke:#cbabdb;}
+  .circle-stroke--green {stroke:#3eb93a;}
+  .circle-stroke--lightgreen {stroke:#c1e7af;}
+  .circle-stroke--orange {stroke:#f9a72a;}
+  .circle-stroke--lightorange {stroke:#fdd99f;}
+
+  .line1 {fill: #ef2c32;}
+  .line2 {fill: #3870c1;}
+  .line3 {fill: #3eb93a;}
+  .line4 {fill: #c1e7af;}
+  .line5 {fill: #f9a72a;}
+  .line6 {fill: #fdd99f;}
+  .line7 {fill: #782e99;}
+  .line8 {fill: #cbabdb;}
+</style>
+
+
+<!-- 
+    ************************************************
+                     TRANSITION 
+    ************************************************
+ -->
+
+ <g id="g5910">
+    <g transform="translate(74.599766,160.33647)" id="g5844">
+     <rect style="opacity:1;fill:#782e99;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-5-6-8-9-7-7-8-5-4"  width="14.672585" height="36.815643" x="-2451.449" y="1080.9495" transform="matrix(-0.04148666,-0.99913906,0.99999028,-0.00440965,0,0)" />
+     <rect style="opacity:1;fill:#3870c1;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-5-8-3-7-6-6-5-9-3-5" width="14.672582" height="37.391369" x="-2452.0112" y="1118.1947" transform="matrix(-0.04127475,-0.99914783,0.99998771,-0.0049569,0,0)" />
+    </g>
+
+    <g transform="translate(-73.008775,152.91184)" id="g5856">
+      <rect  style="opacity:1;fill:#f9a72a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-5-6-8-9-7-7-8-5" width="14.672585" height="36.815643" x="-70.281227" y="2748.1057" transform="matrix(0.83710165,-0.54704737,0.51563109,0.8568107,0,0)" />
+      <rect style="opacity:1;fill:#3870c1;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-5-8-3-7-6-6-5-9-3" width="14.672582" height="37.391365" x="-71.774712" y="2784.812" transform="matrix(0.83721766,-0.54686982,0.51609992,0.85652839,0,0)" />
+    </g>
+
+    <g transform="translate(-35.88567,155.20994)" id="g5850">
+      <rect style="opacity:1;fill:#f9a72a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-5-6-8-9-7-7-8" width="14.672585" height="36.815639" x="2314.4353" y="1529.7489" transform="matrix(0.89230774,0.45142762,-0.4842043,0.87495497,0,0)" />
+      <rect style="opacity:1;fill:#782e99;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-5-8-3-7-6-6-5-9" width="14.672582" height="37.391365" x="2313.5906" y="1565.974" transform="matrix(0.89221198,0.45161685,-0.48372536,0.87521984,0,0)" />
+    </g>
+  </g>
+
+  <g id="g5643" transform="translate(80.875,-66.875)">
+    <rect transform="matrix(0.72100828,-0.69292645,0.67138217,0.74111132,0,0)" y="3508.3799"  x="37.101719" height="31.771437" width="14.668677" id="rect4521-5-6-8" style="opacity:1;fill:#3eb93a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <rect transform="matrix(0.72113516,-0.6927944,0.671852,0.74068542,0,0)" y="3540.0208" x="34.886711" height="32.268333" width="14.66871" id="rect4521-5-8-3-7" style="opacity:1;fill:#f9a72a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+
+  <g id="g5676" transform="matrix(0.97326807,0.22967209,-0.22967209,0.97326807,563.45235,-429.19077)">
+    <rect transform="matrix(0.72100828,-0.69292645,0.67138217,0.74111132,0,0)" y="3250.6243" x="-265.06506" height="31.771437" width="14.668677" id="rect4521-5-6-8-9" style="opacity:1;fill:#f9a72a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <rect transform="matrix(0.72113516,-0.6927944,0.671852,0.74068542,0,0)" y="3282.3252" x="-267.11496" height="32.268333" width="14.66871" id="rect4521-5-8-3-7-6" style="opacity:1;fill:#ef2c32;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+
+
+  <g id="g4582" transform="matrix(0.99986961,-0.01614811,0.01614811,0.99986961,-35.297059,26.111847)">
+    <rect transform="matrix(0.71532406,-0.69879288,0.67741354,0.7356024,0,0)" y="2695.2793" x="-306.46304" height="31.771437" width="14.668677" id="rect4521-5" style="opacity:1;fill:#3870c1;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <rect  transform="matrix(0.71545201,-0.69866188,0.67787988,0.73517268,0,0)" y="2726.998" x="-308.1604" height="32.268333" width="14.66871" id="rect4521-5-8" style="opacity:1;fill:#3eb93a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+
+  <g id="g5724" transform="matrix(0.88300263,0.46936803,-0.46936803,0.88300263,1601.4383,-474.55355)">
+    <rect transform="matrix(0.8608802,-0.50880771,0.48322224,0.87549773,0,0)" y="3298.0447" x="-107.45424" height="31.771437" width="14.668677" id="rect4521-5-6-8-9-7" style="opacity:1;fill:#ef2c32;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <rect transform="matrix(0.86097336,-0.50865005,0.48377733,0.87519112,0,0)" y="3329.7158" x="-109.53504" height="32.268333" width="14.66871" id="rect4521-5-8-3-7-6-6" style="opacity:1;fill:#782e99;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+
+
+  <g id="g5585" transform="matrix(0.99970435,0.02431501,-0.02431501,0.99970435,126.52873,-124.74903)">
+    <rect transform="matrix(0.7039466,-0.7102529,0.6892038,0.72456754,0,0)" y="2970.2302" x="-173.05891" height="31.771437" width="14.668677" id="rect4521-5-6" style="opacity:1;fill:#ef2c32;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <rect transform="matrix(0.70407665,-0.71012398,0.68966314,0.72413034,0,0)" y="3001.9194" x="-174.93141" height="32.268333" width="14.66871" id="rect4521-5-8-3" style="opacity:1;fill:#3eb93a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+
+<!-- 
+    ************************************************
+                       LINES 
+    ************************************************
+ -->
+
+  <g id="layer2" inkscape:label="line-red">
+    <path id="path3363" class="line1"
+       d="m 589.92389,4131.5565 0.19727,-656.2053 c -0.6053,-23.1882 0.98859,-48.1567 15.81518,-83.8374 10.30263,-18.8234 22.52365,-33.8099 36.54588,-45.1941 9.41022,-7.5109 24.42414,-17.8889 65.50535,-41.6036 L 1911.9635,2609.5435 c 18.4318,-13.0469 39.3559,-27.0001 46.0985,-35.7964 11.288,-13.3245 19.5023,-25.3125 22.2507,-34.9241 3.4189,-10.3439 6.9806,-13.8374 9.9036,-47.9839 l 0.8369,-35.43 0.1395,-1995.65632 18.7612,-0.13949 -0.2082,1990.64531 c -0.084,21.1057 -0.016,42.2114 -2.6513,63.3171 -5.3905,26.8599 -12.0971,40.9974 -19.0479,52.7739 -10.1661,14.2553 -12.9334,22.7448 -65.0978,59.3771 l -1199.70287,692.5559 -49.51827,28.874 c -17.02512,11.969 -32.33196,25.168 -44.18706,42.3071 0,0 -18.1234,33.708 -19.76824,59.1007 l -1.00947,26.7868 0.24228,656.5655 z"
+    />
+  </g><!-- Line red -->
+
+  <g id="layer3" inkscape:label="line-blue">
+    <path id="path4166" class="line2"
+       d="m 1212.298,4132.8387 0.099,-1381.2563 c 2.4451,-27.2215 0.9336,-52.4647 21.7941,-88.8939 18.8131,-24.4167 41.6194,-49.7014 110.893,-85.0878 l 189.5644,-108.9402 c 38.3963,-26.2527 51.9345,-49.0369 58.585,-70.86 7.7933,-20.6108 7.5443,-43.6342 8.172,-66.3947 l -0.082,-407.5858 c 0.7985,-36.7161 -9.7057,-71.0347 -33.4536,-102.544 l -69.043,-68.6485 c -24.8036,-26.5676 -49.6463,-54.044 -52.6701,-108.8908 l 0.1973,-86.7971 -0.3945,-1100.34957 18.9375,0.19727 0.01,1180.5241 c 0.381,43.9769 21.5153,74.9088 47.7049,102.6632 l 68.9072,68.9072 c 31.5756,33.2277 37.9162,72.6103 39.3197,113.1971 l -0.1236,408.9068 c 1.3849,49.3471 -7.7886,72.2985 -18.1235,92.3461 -19.38,37.889 -43.4025,48.8513 -66.2668,66.5309 l -233.7821,134.4665 c -26.0936,17.5594 -37.1656,32.277 -51.2818,47.755 -22.1108,43.9467 -17.4599,56.5177 -19.3321,76.7364 l -0.1065,1383.5145 z"
+    />
+  </g><!-- Line Blue -->
+
+  <g id="layer4" inkscape:label="line-green">
+    <path id="path4169" class="line3"
+      d="m 2457.7367,4128.6961 -0.2352,-1785.5749 c -9.6259,-69.872 -48.1488,-91.3972 -96.2278,-96.9343 l -1490.5417,0.1973 c -40.5225,2.5946 -79.8243,-9.7644 -117.37325,-43.5958 l -347.87114,-347.0552 13.23088,-11.6052 348.88456,345.9747 c 31.36579,27.309 65.39252,39.4126 101.96581,36.9644 l 1488.44994,-0.1136 c 87.9065,9.0621 111.202,57.8393 118.732,116.3072 l -0.076,1786.1258 z"
+    />
+  </g><!-- Line Green -->
+
+  <g id="layer10" inkscape:label="line-green2">
+    <path id="path4187" class="line4"
+       d="m 405.70648,1855.9651 c -2.2301,-7.4377 -52.62856,-40.3066 -50.01181,-132.4501 l 0.56768,-639.2246 19.1348,0.5918 0.19726,639.5362 c 1.44355,73.581 28.71515,101.0563 43.15182,119.7452 z"
+    />
+  </g><!-- Line Green - opacity -->
+
+  <g id="layer5" inkscape:label="line-orange">
+    <path id="path4172" class="line5"
+       d="m 3080.2095,3145.917 -0.033,-491.3189 c -7.6801,-60.2931 -38.4459,-94.1838 -100.8499,-96.6652 l -1686.2554,-0.7731 0.1293,-19.3461 1684.924,0.3266 c 84.8286,5.2452 114.4405,49.1917 120.6281,116.3869 l 0.2959,491.4882 z"
+    />
+  </g><!-- Line Orange -->
+
+  <g id="layer9" inkscape:label="line-orange2">
+    <path id="path4184" class="line6"
+       d="m 1293.1783,2557.162 -677.5112,0.7052 c -37.41824,0.3311 -75.00017,-2.3388 -114.61153,-42.2149 l -53.8567,-54.6636 13.25137,-12.833 54.11805,53.4907 c 21.67969,20.227 47.69694,37.4986 100.23455,36.4189 l 678.39096,-0.2651 z"
+    />
+  </g><!-- Line Orange - opacity -->
+
+  <g id="layer6" inkscape:label="line-purple">
+    <path id="path4175" class="line7"
+      d="m 1835.446,3617.7324 -0.062,-368.7754 c -1.1629,-33.5594 -7.1307,-66.3501 -34.3462,-95.7411 l -624.9386,-625.3332 c -22.2785,-28.0217 -43.8149,-56.9204 -42.0614,-113.3436 l 0.4383,-308.0165 c -0.663,-36.9546 -13.2032,-70.643 -43.5958,-99.422 L 928.33367,1844.5534 c -14.22327,-19.1263 -30.23432,-33.1127 -27.22271,-101.7892 l 0.19727,-822.59913 18.44437,0.39453 0.0986,822.2046 c -2.12981,57.6362 7.53212,68.8195 22.29105,88.2765 l 164.42125,165.4075 c 36.7863,35.1229 44.9658,72.0717 47.1426,109.4037 l 0.1395,310.0821 c 1.3184,61.9981 23.1821,76.3684 39.8108,102.8745 l 617.837,618.6261 c 39.949,42.0883 40.4964,76.7223 42.6095,111.6525 l -0.5919,368.7965 z"
+    />
+  </g><!-- Line Purple -->
+
+  <g id="layer8" inkscape:label="line-purple2">
+    <path id="path4181" class="line8"
+       d="m 1835.9544,4131.4578 -0.5098,-513.7641 18.0741,0.1562 1.2547,515.1827 -18.6915,-1.1159 z"
+    />
+  </g><!-- Line Purple - opacity -->
+
+<!-- 
+    ************************************************
+                    STATION RED LINE
+    ************************************************
+ -->
+
+  <g id="g6954" class="metro-station" metro-station-name="Проспект Ветеранов">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1"
+     x1="579.8653"
+     x2="620.76044"
+     y1="4132.4146"
+     y2="4132.3979"
+     id="line135-6-3"
+     class="st32" />
+    <line class="st32" id="line135" y2="4133.291" y1="4133.3086" x2="620.69312" x1="576.96985"/>
+    <circle cy="4135.0693" cx="599.29401" r="30" class="circle circle--red circle--small metro-point" id="path4190"/>
+    <text id="text5273" class="station-text" y="4156.7456" x="634.94983">
+      <tspan y="4156.7456" x="634.94983" id="tspan5275">Проспект</tspan>
+      <tspan id="tspan5277" y="4201.7456" x="634.94983">Ветеранов</tspan>
+    </text>
+  </g>
+
+  <g id="g6961" class="metro-station" metro-station-name="Ленинский проспект">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="596.02594"
+     x2="620.02924"
+     y1="3950.6331"
+     y2="3950.6086"
+     id="line135-1"
+     class="st32" />
+    <circle id="path4190-5" class="circle circle--red circle--small metro-point" r="30" cy="3951.0076" cx="599.45331"/>
+    <text id="text5273-4" class="station-text" y="3965.8616" x="633.4726">
+      <tspan id="tspan5277-9" y="3965.8616" x="633.4726">Ленинский</tspan>
+      <tspan id="tspan5302" y="4010.8616" x="633.4726">проспект</tspan>
+    </text>
+  </g>
+
+  <g id="g6968" class="metro-station" metro-station-name="Автово">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="595.57983"
+     x2="619.58313"
+     y1="3806.0229"
+     y2="3805.9985"
+     id="line135-1-3"
+     class="st32" />
+    <circle id="path4190-5-0" class="circle circle--red circle--small metro-point" r="30" cy="3806.9094" cx="598.96191" />
+    <text id="text5273-4-5" class="station-text" y="3820.6736" x="632.99438">Автово</text>
+  </g>
+
+  <g id="g6974" class="metro-station" metro-station-name="Кировский завод">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="595.57983"
+     x2="619.58313"
+     y1="3609.8008"
+     y2="3609.7764"
+     id="line135-1-3-9"
+     class="st32" />
+    <circle id="path4190-5-0-2" class="circle circle--red circle--small metro-point" r="30" cy="3610.4722" cx="599.31793"/>
+    <text id="text5273-4-5-2" class="station-text" y="3626.355" x="633.6098">
+      <tspan id="tspan5302-0-5" y="3626.355" x="633.6098">Кировский</tspan>
+      <tspan id="tspan5345" y="3671.355" x="633.6098">завод</tspan>
+    </text>
+  </g>
+
+  <g id="g6893" class="metro-station" metro-station-name="Нарвская">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="597.36871"
+     x2="621.32977"
+     y1="3461.8215"
+     y2="3463.2454"
+     id="line135-1-3-9-6"
+     class="st32" />
+    <circle id="path4190-5-0-2-2" class="circle circle--red circle--small metro-point" r="30" cy="3461.6763" cx="599.79883"/>
+    <text id="text5273-4-5-2-0" class="station-text" y="3475.0708" x="633.45123">Нарвская</text>
+  </g>
+
+  <g id="g6887" class="metro-station" metro-station-name="Балтийская">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="792.87225"
+     x2="804.48199"
+     y1="3243.2559"
+     y2="3264.2646"
+     id="line135-1-3-9-6-1"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2" class="circle circle--red circle--small metro-point" r="30" cy="3260.939" cx="804.2406"/>
+    <text id="text5273-4-5-2-0-2" class="station-text" y="3236.0156" x="492.6445">Балтийская</text>
+  </g>
+
+  <g id="g6880" class="metro-station" metro-station-name="Технологический институт">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1180.9452"
+     x2="1192.5549"
+     y1="3019.2456"
+     y2="3040.2544"
+     id="line135-1-3-9-6-1-5"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0" class="circle circle-stroke--red circle--big metro-point"  r="21.695669" cy="3036.656" cx="1191.5074"/>
+    <text
+         sodipodi:linespacing="89.999998%"
+         id="text52sad573-4-5-2-0-2-1-7"
+         y="2945.405"
+         x="1176.1418"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:89.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspdd7989an5345-4-2-3-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end"
+           y="2945.405"
+           x="1176.1418"
+           sodipodi:role="line">Технологический</tspan><tspan
+           id="tspan5406-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end"
+           y="2990.405"
+           x="1176.1418"
+           sodipodi:role="line">институт</tspan></text>
+  </g>
+
+  <g id="g7029" class="metro-station" metro-station-name="Пушкинская">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1551.0675"
+     x2="1562.6772"
+     y1="2826.063"
+     y2="2847.0718"
+     id="line135-1-3-9-6-1-5-6"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1" class="circle circle-stroke--red circle--big metro-point" r="21.695669" cy="2828.5398" cx="1551.9447"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-1-6-2-8-5-0-9-0" class="station-text" y="2854.2407" x="1598.6251">Пушкинская</text>
+  </g>
+
+  <g id="g7035" class="metro-station" metro-station-name="Владимирская">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1942.8771"
+     x2="1956.4634"
+     y1="2599.5151"
+     y2="2619.3032"
+     id="line135-1-3-9-6-1-5-6-1"
+     class="st32" />
+    <circle id="path4190-15-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1-9-3" class="circle circle-stroke--red circle--big metro-point" r="21.695669" cy="2601.0505" cx="1942.7052"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-9-9-0" class="station-text"  y="2687.1143" x="1931.9675">Владимирская</text>
+  </g>
+
+  <g id="g6722" class="metro-station" metro-station-name="Площадь Восстания">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1998.8334"
+     x2="2022.8364"
+     y1="2192.7954"
+     y2="2192.8745"
+     id="line135-1-3-9-6-1-5-6-1-9"
+     class="st32" />
+    <circle id="path4190-52-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1-9-3-8-5-5-5-6" class="circle circle-stroke--red circle--big metro-point" r="21.695669" cy="2193.1226" cx="2000.6715"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4-3" class="station-text" y="2187.4421" x="2043.536">Площадь Восстания</text>
+  </g>
+
+  <g id="g7048" class="metro-station" metro-station-name="Чернышевская">
+      <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1997.7727"
+     x2="2021.7758"
+     y1="1983.9337"
+     y2="1984.0128"
+     id="line135-1-3-9-6-1-5-6-1-9-4" />
+      <circle r="30" cy="1984.0205" cx="2000.277" id="path4190-5-0-2-2-2-5" class="circle circle--red circle--small metro-point" />
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4-3-1" y="1998.1946" x="2030.2561" class="station-text">Чернышевская</text>
+    </g>
+
+  <g id="g7054" class="metro-station" metro-station-name="Площадь Ленина">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1996.9985"
+     x2="2021.0016"
+     y1="1565.2104"
+     y2="1565.2896"
+     id="line135-1-3-9-6-1-5-6-1-9-4-2"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8" class="circle circle--red circle--small metro-point" r="30" cy="1565.196" cx="1999.9803"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4-7-4" class="station-text" y="1580.9604" x="2034.8976">Площадь Ленина</text>
+  </g>
+
+  <g id="g7060" class="metro-station" metro-station-name="Выборгская">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1997.4985"
+     x2="2021.5016"
+     y1="1412.2104"
+     y2="1412.2896"
+     id="line135-1-3-9-6-1-5-6-1-9-4-2-1"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1" class="circle circle--red circle--small metro-point" r="30" cy="1412.5653" cx="2000.332"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4-7-4-2" class="station-text" y="1427.266" x="2033.8837">Выборгская</text>
+  </g>
+
+  <g id="g7066" class="metro-station" metro-station-name="Лесная">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1997.1235"
+     x2="2021.1266"
+     y1="1259.5854"
+     y2="1259.6646"
+     id="line135-1-3-9-6-1-5-6-1-9-4-2-1-4"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8-9" class="circle circle--red circle--small metro-point" r="30" cy="1259.8373" cx="1999.9584"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4-7-4-2-7" class="station-text" y="1274.1876" x="2037.829">Лесная</text>
+  </g>
+
+  <g id="g7072" class="metro-station" metro-station-name="Площаль Мужества">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1998.1235"
+     x2="2022.1266"
+     y1="1106.9604"
+     y2="1107.0396"
+     id="line135-1-3-9-6-1-5-6-1-9-4-2-1-4-8"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8-9-6" class="circle circle--red circle--small metro-point" r="30" cy="1106.838" cx="2000.8175"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4-7-4-2-7-3" class="station-text" y="1121.8983" x="2034.6727">Площаль Мужества</text>
+  </g>
+
+  <g id="g7078" class="metro-station" metro-station-name="Политехническая">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1997.6235"
+     x2="2021.6266"
+     y1="953.71045"
+     y2="953.78955"
+     id="line135-1-3-9-6-1-5-6-1-9-4-2-1-4-8-4"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8-9-6-8" class="circle circle--red circle--small metro-point" r="30" cy="954.09869" cx="2000.2595"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4-7-4-2-7-3-2" class="station-text" y="969.60901" x="2033.8837">Политехническая</text>
+  </g>
+
+  <g id="g7084" class="metro-station" metro-station-name="Академическая">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1997.4985"
+     x2="2021.5016"
+     y1="801.21045"
+     y2="801.28955"
+     id="line135-1-3-9-6-1-5-6-1-9-4-2-1-4-8-4-0"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0" class="circle circle--red circle--small metro-point" r="30" cy="801.5224" cx="2000.1375"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4-7-4-2-7-3-2-1" class="station-text" y="816.53058" x="2033.8837">Академическая</text>    
+  </g>
+
+  <g id="g7090" class="metro-station" metro-station-name="Гражданский проспект">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1997.6235"
+     x2="2021.6266"
+     y1="598.58545"
+     y2="598.66455"
+     id="line135-1-3-9-6-1-5-6-1-9-4-2-1-4-8-4-0-3"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5" class="circle circle--red circle--small metro-point" r="30" cy="598.96191" cx="2000.399"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4-7-4-2-7-3-2-1-6" class="station-text" y="612.95209" x="2034.6729">
+      <tspan id="tspan5406-0-6-4-6-8-5-3-3-0-0-0-6-8-9-9-4-5-5-4-9-1-5-8-3-3-5-8-6-5" y="612.95209" x="2034.6729">Гражданский</tspan>
+      <tspan id="tspan6575" y="657.95209" x="2034.6729">проспект</tspan>
+    </text>
+  </g>
+
+  <g id="g7097" class="metro-station" metro-station-name="Нарвская">
+    <line
+     style="fill:#ef2c32;stroke:#ef2c32;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1980.1101"
+     x2="2021.0052"
+     y1="458.04504"
+     y2="458.02863"
+     id="line135-6"
+     class="st32" />
+    <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3" class="circle circle--red circle--small metro-point" r="30" cy="455.58981" cx="2000.368"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4-7-4-2-7-3-2-1-6-8" class="station-text" y="469.47916" x="2035.4618">Девяткино</text>    
+  </g>
+
+<!-- 
+    ************************************************
+                    STATION BLUE LINE
+    ************************************************
+ -->
+
+  <g id="g6948" class="metro-station" metro-station-name="Гражданский проспект">
+    <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1201.6436"
+     x2="1242.5387"
+     y1="4135.0176"
+     y2="4135.001"
+     id="line135-6-3"
+     class="st32" />
+    <circle r="30" cy="4135.0693" cx="1222.3954" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9" class="circle circle--blue circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1" class="station-text" y="4149.2559" x="1256.0565">Купчино</text>
+    </g>
+
+    <g id="g6942" class="metro-station" metro-station-name="Звёздная">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1219.5336"
+     x2="1243.5369"
+     y1="3997.845"
+     y2="3997.8206"
+     id="line135-1"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8" class="circle circle--blue circle--small metro-point" r="30" cy="3997.6296" cx="1222.0726" />
+      <text id="text5273-4-5-2-0-2-1-1-3" class="station-text" y="4012.6143" x="1254.6892">Звёздная</text>
+    </g>
+
+    <g id="g6935" class="metro-station" metro-station-name="Московская">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1219.7012"
+     x2="1243.7045"
+     y1="3850.99"
+     y2="3850.9656"
+     id="line135-1-3"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0" class="circle circle--blue circle--small metro-point" cx="1222.0627" cy="3851.3401" r="30" />
+      <text id="text5273-4-5-2-0-2-1-1-3-0" class="station-text" y="3865.9827" x="1257.6216">Московская</text>
+    </g>
+
+    <g id="g6925" class="metro-station" metro-station-name="Парк Победы">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1220.4413"
+     x2="1244.4446"
+     y1="3703.625"
+     y2="3703.6006"
+     id="line135-1-3-9"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4" class="circle circle--blue circle--small metro-point" r="30" cy="3704.0828" cx="1222.6003"/>
+      <text id="text5273-4-5-2-0-2-1-1-3-0-3" class="station-text" y="3719.2168" x="1256.0435">Парк Победы</text>
+    </g>
+
+    <g id="g6911" class="metro-station" metro-station-name="Электросила">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1219.7484"
+     x2="1243.7517"
+     y1="3557.1372"
+     y2="3557.1128"
+     id="line135-1-3-9-7"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8" class="circle circle--blue circle--small metro-point" r="30" cy="3557.406" cx="1222.4089"/>
+      <text id="text5273-4-5-2-0-2-1-1-3-0-3-6" class="station-text" y="3570.0837" x="1256.0435">Электросила</text>
+    </g>
+
+    <g id="g6905" class="metro-station" metro-station-name="Московские Ворота">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1220.1234"
+     x2="1244.1267"
+     y1="3409.0122"
+     y2="3408.9878"
+     id="line135-1-3-9-7-6"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6" class="circle circle--blue circle--small metro-point" r="30" cy="3408.95" cx="1222.3342"/>
+      <text  id="text5273-4-5-2-0-2-1-1-3-0-3-6-7" class="station-text" y="3422.5288" x="1256.8325">Московские Ворота</text>
+    </g>
+
+    <g id="g6899" class="metro-station" metro-station-name="Фрунзенская">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1219.7484"
+     x2="1243.7517"
+     y1="3262.8872"
+     y2="3262.8628"
+     id="line135-1-3-9-7-6-0"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3" class="circle circle--blue circle--small metro-point" r="30" cy="3263.127" cx="1222.1205"/>
+      <text id="text5273-4-5-2-0-2-1-1-3-0-3-6-7-9" class="station-text" y="3274.7825" x="1257.0076">Фрунзенская</text>
+    </g>
+    
+    <g id="g6873"  class="metro-station" metro-station-name="Технологический институт">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1199.7484"
+     x2="1223.7517"
+     y1="2982.1372"
+     y2="2982.1128"
+     id="line135-1-3-9-7-6-0-7"
+     class="st32" />
+      <circle r="21.695669" cy="2983.1938" cx="1222.316" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7" class="circle circle-stroke--blue circle--big metro-point"/>
+      <!-- <text
+         sodipodi:linespacing="89.999998%"
+         id="text5273-4-5-2-0-2-1-7"
+         y="2945.405"
+         x="1176.1418"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:89.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan5345-4-2-3-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end"
+           y="2945.405"
+           x="1176.1418"
+           sodipodi:role="line">Технологический</tspan><tspan
+           id="tspan5406-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end"
+           y="2990.405"
+           x="1176.1418"
+           sodipodi:role="line">институт</tspan></text> -->
+    </g>
+
+    <g id="g6741" class="metro-station" metro-station-name="Сенная площадь">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1323.3495"
+     x2="1336.1506"
+     y1="2599.8477"
+     y2="2620.1523"
+     id="line135-1-3-9-7-6-0-7-2"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8" class="circle circle-stroke--blue circle--big metro-point" r="21.695669" cy="2601.1743" cx="1323.4633"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4-3-1-7-6" class="station-text" y="2633.9333" x="1370.6886">Сенная площадь</text>
+    </g>
+
+    <g id="g6734" class="metro-station" metro-station-name="Невский проспект">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1588.4463"
+     x2="1612.4493"
+     y1="2193.0564"
+     y2="2193.1438"
+     id="line135-1-3-9-7-6-0-7-2-4"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1-9-3-8-5-5-5-6-4-4" class="circle circle-stroke--blue circle--big metro-point" r="21.695669" cy="2193.1226" cx="1611.0712"/>
+      <text
+         sodipodi:linespacing="89.999998%"
+         id="text5273-4-5-2-0-2-1-1-4-14-0-8-7"
+         y="2121.2266"
+         x="1579.5627"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:89.99999762%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan5406-0-6-4-6-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end"
+           y="2121.2266"
+           x="1579.5627"
+           sodipodi:role="line">Невский</tspan><tspan
+           id="tspan6579"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end"
+           y="2166.2266"
+           x="1579.5627"
+           sodipodi:role="line">проспект</tspan></text>
+    </g>
+
+    <g id="g6846" class="metro-station" metro-station-name="Горьковская">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1495.1089"
+     x2="1512.9235"
+     y1="1737.8119"
+     y2="1721.725"
+     id="line135-1-3-9-7-6-0-7-2-4-8"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4" class="circle circle--blue circle--small metro-point" r="30" cy="1736.353" cx="1497.15"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9" class="station-text" y="1710.5399" x="1515.4688">Горьковская</text>
+    </g>
+
+    <g id="g6840" class="metro-station" metro-station-name="Петроградская">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1453.3451"
+     x2="1477.3479"
+     y1="1430.0146"
+     y2="1429.9207"
+     id="line135-1-3-9-7-6-0-7-2-4-8-2"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5" class="circle circle--blue circle--small metro-point" r="30" cy="1430.0758" cx="1455.6401"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5" class="station-text" y="1443.0474" x="1490.2186">Петроградская</text>
+    </g>
+
+    <g id="g6834" class="metro-station" metro-station-name="Чёрная речка">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1453.4774"
+     x2="1477.4802"
+     y1="1071.4106"
+     y2="1071.3167"
+     id="line135-1-3-9-7-6-0-7-2-4-8-2-0"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3" class="circle circle--blue circle--small metro-point" r="30" cy="1071.5476" cx="1455.698"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4" class="station-text" y="1085.6013" x="1487.8514">Чёрная речка</text>
+    </g>
+
+    <g id="g6828" class="metro-station" metro-station-name="Пионерская">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1452.7487"
+     x2="1476.7515"
+     y1="957.797"
+     y2="957.703"
+     id="line135-1-3-9-7-6-0-7-2-4-8-2-0-4"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4" class="circle circle--blue circle--small metro-point" r="30" cy="958.30316" cx="1455.0723"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4" class="station-text" y="971.18713" x="1489.4296">Пионерская</text>
+    </g>
+
+    <g id="g6822" class="metro-station" metro-station-name="Удельная">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1453.3737"
+     x2="1477.3765"
+     y1="842.797"
+     y2="842.703"
+     id="line135-1-3-9-7-6-0-7-2-4-8-2-0-4-7"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5" class="circle circle--blue circle--small metro-point" r="30" cy="842.98724" cx="1455.65"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8" class="station-text" y="855.98376" x="1486.2733">Удельная</text>
+    </g>
+
+    <g id="g6816" class="metro-station" metro-station-name="Озерки">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1453.6862"
+     x2="1477.689"
+     y1="725.797"
+     y2="725.703"
+     id="line135-1-3-9-7-6-0-7-2-4-8-2-0-4-7-2"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1" class="circle circle--blue circle--small metro-point" r="30" cy="726.03552" cx="1455.6979"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9" class="station-text" y="740.96368" x="1487.1499">Озерки</text>
+    </g>
+
+    <g id="g6809" class="metro-station" metro-station-name="Проспект Просвещения">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1453.4774"
+     x2="1477.4802"
+     y1="561.85175"
+     y2="561.75775"
+     id="line135-1-3-9-7-6-0-7-2-4-8-2-0-4-7-2-3"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6" class="circle circle--blue circle--small metro-point" r="30" cy="562.09143" cx="1455.6091"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4" class="station-text" y="574.28796" x="1490.2186">
+        <tspan id="tspan5406-0-6-4-6-8-5-3-3-0-0-0-6-8-9-9-4-5-5-4-9-1" y="574.28796" x="1490.2186">Проспект</tspan>
+        <tspan id="tspan6581" y="624.28796" x="1490.2186">Просвещения</tspan>
+      </text>
+    </g>
+
+    <g id="g6803" class="metro-station" metro-station-name="Парнас">
+      <line
+     style="fill:#ef2c32;stroke:#3870c1;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1"
+     x1="1435.9955"
+     x2="1476.8906"
+     y1="461.28769"
+     y2="461.27127"
+     id="line135-6"
+     class="st32" />
+      <circle id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0" class="circle circle--blue circle--small metro-point" r="30" cy="455.58981" cx="1455.5439"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4-9-5-4-4-8-9-4-7" class="station-text" y="469.87372" x="1491.0077">Парнас</text>
+    </g>
+
+<!-- 
+    ************************************************
+                 STATION PURPLE LINE
+    ************************************************
+ -->
+  <g id="g6981" class="metro-station" metro-station-name="Шушары">
+    <line
+     class="st32"
+     id="line9251"
+     y2="4134.001"
+     y1="4134.0176"
+     x2="1866.5387"
+     x1="1825.6436"
+     style="fill:#ef2c32;stroke:#cbabdb;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="4135.0693" cx="1845.3048" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1" class="circle circle--lightpurple circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4" y="4147.9854" x="1879.3092" class="station-text">Шушары</text>
+  </g>
+
+  <g id="g6987" class="metro-station" metro-station-name="Дунайская">
+    <line
+     class="st32"
+     id="line9256"
+     y2="3969.5554"
+     y1="3969.5798"
+     x2="1866.873"
+     x1="1842.8698"
+     style="fill:#ef2c32;stroke:#cbabdb;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="3969.4058" cx="1845.053" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1" class="circle circle--lightpurple circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-1" y="3981.3704" x="1880.3293" class="station-text">Дунайская</text>
+  </g>
+
+  <g id="g6993" class="metro-station" metro-station-name="Проспект Славы">
+    <line
+     class="st32"
+     id="line9256-0"
+     y2="3792.3628"
+     y1="3792.3872"
+     x2="1866.8767"
+     x1="1842.8734"
+     style="fill:#ef2c32;stroke:#cbabdb;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="3792.4731" cx="1845.084" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7" class="circle circle--lightpurple circle--small metro-point"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-1-6" y="3806.3892" x="1878.5201" class="station-text">Проспект Славы</text>
+  </g>
+
+  <g id="g6999" class="metro-station" metro-station-name="Международная">
+    <line
+     class="st32"
+     id="line9256-0-4"
+     y2="3616.4937"
+     y1="3616.5181"
+     x2="1866.7428"
+     x1="1842.7395"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="3616.1758" cx="1845.3682" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0" class="circle circle--purple circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-1-6-2" y="3629.1489" x="1880.8873" class="station-text">Международная</text>
+  </g>
+
+  <g id="g7005" class="metro-station" metro-station-name="Бухарестская">
+    <line
+     class="st32"
+     id="line9256-0-4-2"
+     y2="3439.717"
+     y1="3439.7415"
+     x2="1865.8588"
+     x1="1841.8555"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="3439.6372" cx="1844.4512" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4" class="circle circle--purple circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-1-6-2-8" y="3453.1875" x="1878.52" class="station-text">Бухарестская</text>
+  </g>
+
+  <g id="g7011" class="metro-station" metro-station-name="Волковская">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7"
+     y2="3261.4517"
+     y1="3263.5698"
+     x2="1866.0771"
+     x1="1842.1676"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="3263.5862" cx="1844.3383" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3" class="circle circle--purple circle--small metro-point"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-1-6-2-8-5" y="3276.8318" x="1877.8665" class="station-text">Волковская</text>
+  </g>
+
+  <g id="g7017" class="metro-station" metro-station-name="Обводный канал">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9"
+     y2="3088.5852"
+     y1="3105.4148"
+     x2="1778.5575"
+     x1="1761.4426"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="3103.8994" cx="1763.1632" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7" class="circle circle--purple circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-1-6-2-8-5-0" y="3079.3345" x="1779.4645" class="station-text">Обводный канал</text>
+  </g>
+
+  <g id="g7023" class="metro-station" metro-station-name="Звенигородская">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1"
+     y2="2884.7212"
+     y1="2901.5508"
+     x2="1576.3015"
+     x1="1559.1866"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="21.695669" cy="2890.1467" cx="1551.8655" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1-9" class="circle circle-stroke--purple circle--big metro-point"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-1-6-2-8-5-0-9" y="2907.8042" x="1596.9513" class="station-text">Звенигородская</text>
+  </g>  
+
+  <g id="g6753" class="metro-station" metro-station-name="Садовая">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0"
+     y2="2587.3452"
+     y1="2604.6992"
+     x2="1254.0154"
+     x1="1237.4325"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="21.695669" cy="2600.8613" cx="1261.9559" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2" class="circle circle-stroke--purple circle--big metro-point"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4-3-1-7-6-1" class="station-text" y="2633.9333" x="1001.324">Садовая</text>
+  </g>
+
+  <g id="g6765" class="metro-station" metro-station-name="Адмиралтейская">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9"
+     y2="2334.2246"
+     y1="2334.0898"
+     x2="1146.837"
+     x1="1122.8342"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="2334.6123" cx="1144.6394" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4" class="circle circle--purple circle--small metro-point"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4-3-1-7-6-1-0-9" class="station-text" y="2346.5615" x="671.83557">Адмиралтейская</text>
+  </g>
+
+  <g id="g6777" class="metro-station" metro-station-name="Спортивная">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1"
+     y2="1756.5291"
+     y1="1756.3943"
+     x2="913.03223"
+     x1="889.02942"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="1756.5728" cx="910.57977" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8" class="circle circle--purple circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9" class="station-text" y="1772.929" x="568.46722">Спортивная</text>
+  </g>
+
+  <g id="g6771" class="metro-station" metro-station-name="Чкаловская">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8"
+     y2="1613.1631"
+     y1="1613.0283"
+     x2="913.03223"
+     x1="889.02942"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="1613.4563" cx="910.77704" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0" class="circle circle--purple circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7" class="station-text" y="1627.7936" x="573.70831">Чкаловская</text>
+  </g>
+
+  <g id="g6783" class="metro-station" metro-station-name="Крестовский остров">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8-0"
+     y2="1379.9424"
+     y1="1379.8076"
+     x2="932.2514"
+     x1="908.2486"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle  r="30" cy="1380.0784" cx="910.80658" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2" class="circle circle--purple circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1" class="station-text" y="1342.8362"  x="943.79193">
+      <tspan id="tspan5406-0-6-4-6-8-5-3-3-0-0-0-6" y="1342.8362" x="943.79193">Крестовский</tspan>
+      <tspan id="tspan6583" y="1392.8362" x="943.79193">остров</tspan>
+    </text>
+  </g>
+
+  <g id="g6790" class="metro-station" metro-station-name="Старая Деревня">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8-0-9"
+     y2="1071.1658"
+     y1="1071.031"
+     x2="932.47766"
+     x1="908.47485"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="1071.8265" cx="910.8573" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1" class="circle circle--purple circle--small metro-point"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7" class="station-text" y="1086.3904" x="943.39734">Старая Деревня</text>
+  </g>
+
+  <g id="g6796" class="metro-station" metro-station-name="Комендантский проспект">
+    <line
+     class="st32"
+     id="line9251-1"
+     y2="917.19556"
+     y1="917.21216"
+     x2="930.5824"
+     x1="889.68726"
+     style="fill:#ef2c32;stroke:#782e99;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="918.3291"  cx="910.67133" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2" class="circle circle--purple circle--small metro-point"/>
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9-1-7-4" class="station-text" y="919.89795" x="955.76459">
+      <tspan id="tspan5406-0-6-4-6-8-5-3-3-0-0-0-6-8-9" y="919.89795" x="945.76459">Комендантский</tspan>
+      <tspan id="tspan6585" y="964.89795" x="945.76459">проспект</tspan>
+    </text>
+  </g>
+
+
+<!-- 
+    ************************************************
+                 STATION GREEN LINE
+    ************************************************
+ -->   
+
+  <g id="g6692" class="metro-station" metro-station-name="Рыбацкое">
+    <line
+     class="st32"
+     id="line9251"
+     y2="4127.7046"
+     y1="4127.7212"
+     x2="2488.3394"
+     x1="2447.4441"
+     style="fill:#ef2c32;stroke:#3eb93a;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="4135.0693" cx="2467.0344" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4" class="circle circle--green circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14" y="4146.6382" x="2501.4041" class="station-text">Рыбацкое</text>
+  </g>
+
+  <g id="g6698" class="metro-station" metro-station-name="Обухово">
+    <line
+     class="st32"
+     id="line9256"
+     y2="3897.4341"
+     y1="3897.4585"
+     x2="2488.873"
+     x1="2464.8699"
+     style="fill:#ef2c32;stroke:#3eb93a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle  r="30" cy="3897.6953" cx="2467.2656" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6" class="circle circle--green circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0" y="3911.0024" x="2499.7322"
+       class="station-text">Обухово</text>
+  </g>
+
+  <g id="g6704" class="metro-station" metro-station-name="Пролетарская">
+    <line
+     class="st32"
+     id="line9256-0"
+     y2="3651.0664"
+     y1="3651.0908"
+     x2="2488.2239"
+     x1="2464.2205"
+     style="fill:#ef2c32;stroke:#3eb93a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="3651.2544" cx="2466.6138" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5" class="circle circle--green circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-7" y="3665.5034" x="2501.4058" class="station-text">Пролетарская</text>
+  </g>
+
+  <g id="g6710" class="metro-station" metro-station-name="Ломоносовская">
+    <line
+     class="st32"
+     id="line9256-0-4"
+     y2="3405.5725"
+     y1="3405.5969"
+     x2="2488.8398"
+     x1="2464.8367"
+     style="fill:#ef2c32;stroke:#3eb93a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="3405.6477" cx="2467.0906" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0" class="circle circle--green circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0" y="3418.9844" x="2500.842" class="station-text">Ломоносовская</text>
+  </g>
+
+  <g id="g6716" class="metro-station" metro-station-name="Елизаровская">
+    <line
+     class="st32"
+     id="line9256-0-4-2"
+     y2="3158.8938"
+     y1="3158.9182"
+     x2="2488.0964"
+     x1="2464.093"
+     style="fill:#ef2c32;stroke:#3eb93a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="3159.5283" cx="2467.0083" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5" class="circle circle--green circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7" y="3172.5664" x="2501.0115" class="station-text">Елизаровская</text>
+  </g>
+
+  <g id="g6606" class="metro-station" metro-station-name="Гостинный Двор">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8"
+     y2="2237.4299"
+     y1="2213.427"
+     x2="1668.3325"
+     x1="1668.4673"
+     style="fill:#ef2c32;stroke:#3eb93a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="21.695669" cy="2236.7183" cx="1654.4697" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1-9-3-8-5-5-5-6-4" class="circle circle-stroke--green circle--big metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8" y="2148.989" x="1677.8682" class="station-text">
+      <tspan id="tspan5406-0-6-4-6-8" y="2148.989" x="1677.8682">Гостинный</tspan>
+      <tspan id="tspan6577" y="2193.989" x="1677.8682">Двор</tspan>
+    </text>
+  </g>
+
+  <g id="g6600" class="metro-station" metro-station-name="Приморская">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8-0"
+     y2="1845.4832"
+     y1="1862.5303"
+     x2="413.72333"
+     x1="396.82513"
+     style="fill:#ef2c32;stroke:#3eb93a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="1848.5051" cx="412.18277" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8" class="circle circle--green circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3" y="1902.2825" x="63.591133" class="station-text">Приморская</text>
+  </g>
+
+  <g id="g6594" class="metro-station" metro-station-name="Новокрестовская">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8-0-9"
+     y2="1416.4362"
+     y1="1416.3014"
+     x2="388.008"
+     x1="364.00519"
+     style="fill:#ef2c32;stroke:#c1e7af;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="1416.3622" cx="365.87729" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8" class="circle circle--lightgreen circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3" y="1430.4222" x="401.31049" class="station-text">Новокрестовская</text>
+  </g>
+
+  <g id="g6588" class="metro-station" metro-station-name="Беговая">
+    <line
+     class="st32"
+     id="line9251-1"
+     y2="1087.8911"
+     y1="1087.9077"
+     x2="386.54187"
+     x1="345.64673"
+     style="fill:#ef2c32;stroke:#c1e7af;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1" />
+    <circle r="30" cy="1085.0199" cx="365.84668" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7" class="circle circle--lightgreen circle--small metro-point" />
+    <text id="text5273-4-5-2-0-2-1-1-4-14-0-8-7-9-7-3-3-9" y="1100.6475" x="401.8309" class="station-text">Беговая</text>
+  </g>
+  
+  <g id="g6613" class="metro-station" metro-station-name="Маяковская">
+    <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1"
+     y2="2259.8218"
+     y1="2235.8188"
+     x2="2058.6965"
+     x1="2058.8313"
+     style="fill:#ef2c32;stroke:#3eb93a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle
+         r="21.695669"
+         cy="2236.9155"
+         cx="2044.4645"
+         id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1-9-3-8-5-5-5"
+         class="circle circle-stroke--green circle--big metro-point" />
+      <text
+         sodipodi:linespacing="89.999998%"
+         id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4"
+         y="2301.0669"
+         x="2067.0808"
+         class="station-text"
+         xml:space="preserve"><tspan
+           id="tspan5406-0-6-4-6-2-3-2-3-7-9-5-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start"
+           y="2301.0669"
+           x="2067.0808"
+           sodipodi:role="line">Маяковская</tspan></text>
+    </g>
+
+    <g id="g6651" class="metro-station" metro-station-name="Площадь Александра Невского">
+      <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9"
+     y2="2493.2195"
+     y1="2493.0847"
+     x2="2467.8977"
+     x1="2443.8948"
+     style="fill:#ef2c32;stroke:#3eb93a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="21.695669" cy="2504.8027" cx="2467.0083" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1-9-3-8-5-5" class="circle circle-stroke--green circle--big metro-point" />
+
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-9-9" class="station-text" y="2395.6038" x="2510.333">
+        <tspan
+           id="tspan5406-0-6-4-6-2-3-2-3-7-9-3-8"
+           y="2395.6038"
+           x="2510.333"
+           sodipodi:role="line">Площадь</tspan>
+        <tspan
+           id="tspan5899"
+           y="2443.1038"
+           x="2510.333"
+           sodipodi:role="line">Александра</tspan>
+        <tspan
+           id="tspan5901"
+           y="2490.6038"
+           x="2510.333"
+           sodipodi:role="line">Невского</tspan>
+      </text>
+    </g>
+
+
+
+
+<!-- 
+    ************************************************
+                 STATION ORANGE LINE
+    ************************************************
+ -->
+    <g  id="g6686" class="metro-station" metro-station-name="Улица Дыбенко">
+      <line
+     class="st32"
+     id="line9251"
+     y2="3149.75"
+     y1="3149.7666"
+     x2="3110.5786"
+     x1="3069.6833"
+     style="fill:#ef2c32;stroke:#f9a72a;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="30" cy="3159.1057" cx="3089.8867" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6" class="circle circle--orange circle--small metro-point" />
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2" y="3168.926" x="3122.9646" class="station-text">Улица Дыбенко</text>
+    </g>
+
+    <g id="g6679" class="metro-station" metro-station-name="Проспект Большевиков">
+      <line
+     class="st32"
+     id="line9256"
+     y2="2899.3528"
+     y1="2899.3772"
+     x2="3110.7734"
+     x1="3086.7703"
+     style="fill:#ef2c32;stroke:#f9a72a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="30" cy="2899.729" cx="3089.1853" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2" class="circle circle--orange circle--small metro-point" />
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0" y="2908.2942" x="3123.6863" class="station-text">
+        <tspan id="tspan5406-0-6-4-6-2-3-2-3-7" y="2908.2942" x="3123.6863">Проспект</tspan>
+        <tspan id="tspan5903" y="2958.2942" x="3123.6863">Большевиков</tspan>
+      </text>
+    </g>
+
+    <g id="g6673" class="metro-station" metro-station-name="Ладожская">
+      <line
+     class="st32"
+     id="line9256-0"
+     y2="2691.3457"
+     y1="2691.3701"
+     x2="3111.1851"
+     x1="3087.1816"
+     style="fill:#ef2c32;stroke:#f9a72a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="30" cy="2691.6167" cx="3089.5442" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3" class="circle circle--orange circle--small metro-point" />
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2" y="2701.6409" x="3123.5229" class="station-text">Ладожская</text>
+    </g>
+
+    <g id="g6667" class="metro-station" metro-station-name="Новочеркасская">
+      <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1"
+     y2="2549.8826"
+     y1="2525.8796"
+     x2="2909.928"
+     x1="2910.0627"
+     style="fill:#ef2c32;stroke:#f9a72a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="30" cy="2547.8899" cx="2909.7217" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5" class="circle circle--orange circle--small metro-point" />
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-9" y="2508.3103" x="2887.509" class="station-text">Новочеркасская</text>
+    </g>    
+    
+    <g id="g7041" class="metro-station" metro-station-name="Лиговский проспект">
+      <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8-4"
+     y2="2550.2515"
+     y1="2526.2485"
+     x2="2245.3076"
+     x1="2245.4424"
+     style="fill:#ef2c32;stroke:#f9a72a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="30" cy="2548.0293" cx="2245.2004" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5" class="circle circle--orange circle--small metro-point" />
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7" class="station-text" y="2456.991" x="2245.6106"  style="text-align:center;text-anchor:middle;">
+        <tspan id="tspan5406-0-6-4-6-2-3-2-3-7-9-5" y="2456.991" x="2305.6106">Лиговский</tspan>
+        <tspan id="tspan6105" y="2501.991" x="2305.6106">проспект</tspan>
+      </text>
+    </g>
+
+    <g id="g6728" class="metro-station" metro-station-name="Достоевская">
+      <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8-4-3"
+     y2="2550.1699"
+     y1="2526.167"
+     x2="1911.9493"
+     x1="1912.0841"
+     style="fill:#ef2c32;stroke:#f9a72a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="21.695669" cy="2547.8066" cx="1912.099" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1-9-3-8" class="circle circle-stroke--orange circle--big metro-point" />
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4-3-1-7" y="2494.4453" x="1612.84" class="station-text">Достоевская</text>
+    </g>    
+    
+    <g id="g6747" class="metro-station" metro-station-name="Спасская">
+      <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8-4-3-3"
+     y2="2549.082"
+     y1="2525.0791"
+     x2="1293.736"
+     x1="1293.8707"
+     style="fill:#ef2c32;stroke:#f9a72a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="21.695669" cy="2548.2314" cx="1292.8116" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3" class="circle circle-stroke--orange circle--big metro-point" />
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4-3-1-7-6-1-0" y="2495.8206" x="1198.1178" class="station-text">Спасская</text>
+    </g>
+    
+    <g id="g6759" class="metro-station" metro-station-name="Театральная">
+      <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8-4-3-3-2"
+     y2="2569.2617"
+     y1="2545.2588"
+     x2="931.1922"
+     x1="931.32697"
+     style="fill:#ef2c32;stroke:#fdd99f;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="30" cy="2547.8066"  cx="931.29266" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6" class="circle circle--lightorange circle--small metro-point"/>
+      <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4-3-1-7-6-1-0-9-9" y="2615.0347"  x="624.58746" class="station-text">Театральная</text>
+    </g>
+
+    <g id="g675922" class="metro-station" metro-station-name="Горный институт">
+      <line
+     class="st32"
+     id="line9251-8"
+     y2="2440.5051"
+     y1="2468.8562"
+     x2="470.40845"
+     x1="440.93573"
+     style="fill:#ef2c32;stroke:#fdd99f;stroke-width:11.22381401;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle class="circle circle--lightorange circle--small metro-point" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-2" cx="455.85117" cy="2454.6700" r="30" />
+      <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:89.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="418.69632"
+       y="2502.9397"
+       id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-7-4-3-1-7-6-1-0-9-9-6"
+       sodipodi:linespacing="89.999998%"><tspan
+         sodipodi:role="line"
+         x="418.69632"
+         y="2502.9397"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end"
+         id="tspan5406-0-6-4-6-2-3-2-3-7-9-5-6-8-1-2-0-4-1-1-6-9">Горный</tspan><tspan
+         sodipodi:role="line"
+         x="418.69632"
+         y="2547.9397"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end"
+         id="tspan6103">институт</tspan></text>
+    </g>
+
+    <g id="g6659" class="metro-station" metro-station-name="Площадь Александра Невского" transform="translate(-0.18704305,0.1584674)">
+      <line
+     class="st32"
+     id="line9256-0-4-2-7-9-1-0-9-1-8"
+     y2="2548.1892"
+     y1="2524.1863"
+     x2="2522.8999"
+     x1="2523.0347"
+     style="fill:#ef2c32;stroke:#f9a72a;stroke-width:10.45747375;stroke-miterlimit:10;stroke-opacity:1" />
+      <circle r="21.695669" cy="2548.2012" cx="2510.8013" id="path4190-5-0-2-2-2-5-8-9-6-8-0-5-3-1-0-6-1-5-4-3-5-4-3-6-8-4-0-8-9-1-8-7-0-4-3-7-4-8-0-2-1-2-7-8-8-5-0-5-6-4-6-2-3-5-5-6-3-2-8-7-0-1-9-3-8-5" class="circle circle-stroke--orange circle--big metro-point" />
+     <!-- <text id="text5273-4-5-2-0-2-1-1-4-14-0-7-0-7-2-0-2-9-9-4" y="2395.4521" x="2510.5176" class="station-text">
+        <tspan id="tspan5406-0-6-4-6-2-3-2-3-7-9-3-8-3" y="2395.4521" x="2510.5176">Площадь</tspan>
+        <tspan id="tspan5899-3" y="2442.9521" x="2510.5176">Александра</tspan>
+        <tspan id="tspan5901-5" y="2490.4521" x="2510.5176">Невского</tspan>
+      </text>-->
+    </g>
+   
+<!-- 
+    ************************************************
+                   WHITE TRANSITION
+    ************************************************
+ -->
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-0-1" width="14.670573" height="54.015141" x="132.84666" y="3521.5779" transform="matrix(0.73662027,-0.67630658,0.67311725,0.73953578,0,0)" />
+
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-0-3-5" width="14.670573" height="54.015141" x="2607.3735" y="1906.6523" transform="matrix(0.85141545,0.52449188,-0.52816604,0.84914112,0,0)" />
+
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-0-3-0" width="14.670573" height="54.015141" x="1541.5974" y="2840.6047" transform="matrix(0.99998524,-0.00543333,0.00111224,0.99999938,0,0)" /> 
+
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521" width="14.670573" height="54.015141" x="-410.96887" y="2696.7129" transform="matrix(0.70593195,-0.70827967,0.70522265,0.70898591,0,0)" />
+
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-0" width="14.670573" height="54.015141" x="-2.4752858" y="2977.2805" transform="matrix(0.73662027,-0.67630658,0.67311725,0.73953578,0,0)" />
+
+  <rect style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="rect4521-0-3" width="14.670573" height="54.015141" x="425.91177" y="3164.6282" transform="matrix(0.87187185,-0.48973408,0.48596206,0.87397991,0,0)" />
+
+  <g id="g5905" transform="translate(-0.88388314,0.88388404)" style="stroke:none;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none">
+    <rect transform="matrix(0.84876821,-0.5287651,0.52509255,0.85104513,0,0)" y="2852.7893" x="-244.04295" height="54.015141" width="14.670573" id="rect4521-04"
+    style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00000465;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <rect transform="matrix(0.86446759,0.50268855,-0.50641931,0.86228735,0,0)" y="1562.5038" x="2397.9995" height="54.015141" width="14.670573" id="rect4521-04-9"
+    style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00000465;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <rect transform="matrix(0.00123035,0.99999924,-0.99999522,-0.00309076,0,0)" y="-1314.5685" x="2589.687" height="54.015141" width="14.670573" id="rect4521-04-9-4"
+    style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00000465;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+
+</svg>
