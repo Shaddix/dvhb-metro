@@ -64,18 +64,18 @@
  <style id="dvhb_metro_style" type="text/css">
   g.metro-station {cursor: pointer;}
 
-  g.metro-station.disabled {cursor: initial;}
+  g.metro-station---disabled {cursor: initial;}
 
   g.metro-station.selected text, g.metro-station.selected tspan {
     font-weight: bold !important; 
   }
 
-  g.metro-station.disabled text, g.metro-station.disabled tspan {
+  g.metro-station---disabled text, g.metro-station---disabled tspan {
     fill: gray;
     cursor: initial;
   }
 
-  g.metro-station.disabled .circle--small {
+  g.metro-station---disabled .circle--small {
     display: none;
   }
 

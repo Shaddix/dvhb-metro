@@ -50,7 +50,7 @@
       cursor: pointer;
     }
 
-    g.metro-station.disabled {
+    g.metro-station---disabled {
       cursor: initial;
     }
 
@@ -58,7 +58,7 @@
       font-weight: bold !important; 
     }
 
-    g.metro-station.disabled text, g.metro-station.disabled tspan {
+    g.metro-station---disabled text, g.metro-station---disabled tspan {
       fill: gray;
       cursor: initial;
     }
@@ -70,7 +70,7 @@
         font-variant:normal;
         font-size: 20px;
     }
-    g.metro-station.disabled .metro-point {
+    g.metro-station---disabled .metro-point {
       display: none;
     }
   .st0{fill:#676A6B;}
